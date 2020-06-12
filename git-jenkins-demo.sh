@@ -15,4 +15,6 @@ date >> demo.txt
 
 echo "This is to show Auto Import in UCD"
 
+yum install -y ntp httpd
+
 exit 0
