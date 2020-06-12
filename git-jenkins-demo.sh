@@ -13,4 +13,6 @@ yum install -y python36u python36u-libs python36u-devel python36u-pip
 
 date >> demo.txt
 
+echo "This is to show Auto Import in UCD"
+
 exit 0
